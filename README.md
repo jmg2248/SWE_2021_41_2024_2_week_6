@@ -55,3 +55,5 @@ __Description of my code__
 > docker inspect --format="{{ .HostConfig.Binds }}" <container_name>
 > ```
 > 현재 내 container에 bind mount가 제대로 되어있는지 확인
+
+<img src="/.
