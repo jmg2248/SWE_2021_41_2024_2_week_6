@@ -39,19 +39,19 @@ __Description of my code__
 > ```shell
 > docker exec <your container> cat /etc/os-release
 > ```
-> explain
+> 현재 내 container에 우분투가 제대로 설치되어있는지 확인
 
 > ```shell
 > docker exec <your container> git --version
 > ```
-> explain
+> 현재 내 container에 git이 제대로 설치되어있는지 확인
 
 > ```shell
 > docker exec <your container> python3 --version
 > ```
-> explain
+> 현재 내 container에 python3가 제대로 설치되어있는지 확인
 
 > ```shell
 > docker inspect --format="{{ .HostConfig.Binds }}" <container_name>
 > ```
-> explain
+> 현재 내 container에 bind mount가 제대로 되어있는지 확인
