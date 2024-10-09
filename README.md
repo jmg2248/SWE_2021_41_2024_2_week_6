@@ -31,7 +31,7 @@ description\
 ---
 
 ## Week 5 Assignment
-> ```console
+> ```code
 > docker exec <your container> cat /etc/os-release
 > ```
 > explain
