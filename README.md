@@ -36,17 +36,17 @@ description\
 > ```
 > explain
 
-> ```console
+> ```shell
 > docker exec <your container> git --version
 > ```
 > explain
 
-> ```console
+> ```shell
 > docker exec <your container> python3 --version
 > ```
 > explain
 
-> ```console
+> ```shell
 > docker inspect --format="{{ .HostConfig.Binds }}" <container_name>
 > ```
 > explain
