@@ -30,16 +30,16 @@ description\
 
 ---
 
-##Week 5 Assignment
+## Week 5 Assignment
 
-> docker exec <your container> cat /etc/os-release
+> docker exec <your container> cat /etc/os-release \
 > explain
 
-> docker exec <your container> git --version
+> docker exec <your container> git --version \
 > explain
 
-> docker exec <your container> python3 --version
+> docker exec <your container> python3 --version \
 > explain
 
-> docker inspect --format="{{ .HostConfig.Binds }}" <container_name>
+> docker inspect --format="{{ .HostConfig.Binds }}" <container_name> \
 > explain
