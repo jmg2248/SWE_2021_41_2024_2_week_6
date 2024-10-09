@@ -56,4 +56,6 @@ __Description of my code__
 > ```
 > 현재 내 container에 bind mount가 제대로 되어있는지 확인
 
-<img src="./2020311661_week5.png"/>
+<img src="./2020311661_week5.png" title="Screenshot"/>
+
+과제의 요구사항을 제대로 수행했을 시 다음과 같은 스크린샷을 볼 수 있다.
