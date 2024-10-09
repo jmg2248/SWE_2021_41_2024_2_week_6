@@ -32,9 +32,7 @@ description\
 
 ## Week 5 Assignment
 
-> <code>
-docker exec <your container> cat /etc/os-release
-</code>\
+> docker exec <your container> cat /etc/os-release \
 > explain
 
 > docker exec <your container> git --version \
