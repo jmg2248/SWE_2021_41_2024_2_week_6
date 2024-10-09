@@ -32,8 +32,7 @@ description\
 
 ## Week 5 Assignment
 ```console
-> docker exec <your container> cat /etc/os-release \
-```
+> ```console docker exec <your container> cat /etc/os-release ``` \
 > explain
 
 > docker exec <your container> git --version \
