@@ -26,7 +26,7 @@ def isHappy(n):
         pass
 ```
 
-__ordered list__
+__Description of my code__
 1. while(n) 안에서 이번의 수가 각 자릿수의 제곱의 합이 1인지 파악한다. 
 2. 만약 제곱의 합이 1이라면 happy number의 조건을 만족하므로 True를 return하고 끝이 난다. 
 3. 1이 아니라면 나온 합을 lst에 집어넣고 지금까지 lst에 이 합이 나온적이 있는지 확인한다. 
