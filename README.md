@@ -36,11 +36,17 @@ description\
 > ```
 > explain
 
-> docker exec <your container> git --version \
+> ```console
+> docker exec <your container> git --version
+> ```
 > explain
 
-> docker exec <your container> python3 --version \
+> ```console
+> docker exec <your container> python3 --version
+> ```
 > explain
 
-> docker inspect --format="{{ .HostConfig.Binds }}" <container_name> \
+> ```console
+> docker inspect --format="{{ .HostConfig.Binds }}" <container_name>
+> ```
 > explain
