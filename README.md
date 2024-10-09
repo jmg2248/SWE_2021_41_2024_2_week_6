@@ -56,4 +56,4 @@ __Description of my code__
 > ```
 > 현재 내 container에 bind mount가 제대로 되어있는지 확인
 
-<img src="/.
+<img src="./2020311661_week5.png"/>
